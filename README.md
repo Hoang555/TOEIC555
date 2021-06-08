@@ -6,7 +6,7 @@
 - Giao diện thân thiện, dễ sử dụng.
 - Bao gồm các chức năng: 
 + Học từ vựng theo chủ đề, với 600 từ chia thành 50 chủ đề.
-+ Ngữ pháp chia thành 5 phần: Cấu trúc câu, Cấu trúc của động từ, Cấu trúc của chủ ngữ, Cấu trúc của vị ngữ, Cấu trúc của thông tin nền.
++ Ngữ pháp chia thành nhiều phần.
 + Luyện đề với 2 format cũ và mới thông qua đề thi các năm gần đây, có hệ thống tính giờ làm bài và chấm điểm trực tiếp.
-+ Mẹo thi bao gồm mẹo và cách làm từng phần trong đề TOEIC.
++ Mẹo thi từng phần trong đề TOEIC.
 

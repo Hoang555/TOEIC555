@@ -14,14 +14,6 @@
   +	Làm bài trắc nghiệm.
   +	Hệ thống tính giờ làm bài.
   +	Chấm điểm trực tiếp và cho lời khen dựa trên điểm số.
- 
-- Pub.dev:
-  + cupertino_icons: ^1.0.2
-  + sqflite: ^2.0.0+3
-  + fluttertoast: ^8.0.7
-  + path_provider: ^2.0.1
-  + flutter_staggered_grid_view: ^0.4.0-nullsafety.3
-  + webview_flutter: ^1.0.7
 
 
 ![Android Emulator - Pixel_3_API_28_5554 06_09_2021 10_51_49 AM](https://user-images.githubusercontent.com/80450880/121304380-78597180-c926-11eb-92cd-4eb7ef8b3109.png)

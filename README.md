@@ -15,6 +15,8 @@
   +	Hệ thống tính giờ làm bài.
   +	Chấm điểm trực tiếp và cho lời khen dựa trên điểm số.
 
+Demo: https://youtu.be/9A8oUyBHquw
+
 
 ![Android Emulator - Pixel_3_API_28_5554 06_09_2021 10_51_49 AM](https://user-images.githubusercontent.com/80450880/121304380-78597180-c926-11eb-92cd-4eb7ef8b3109.png)
 ![Android Emulator - Pixel_3_API_28_5554 06_09_2021 10_53_15 AM](https://user-images.githubusercontent.com/80450880/121304408-81e2d980-c926-11eb-9834-7b7c098e74de.png)
